@@ -109,6 +109,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AiluriAmardeepReddy&show_icons=true&theme=default" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiluriAmardeepReddy&layout=compact" height="150"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AiluriAmardeepReddy" />
+</p>
 
 ---
 
