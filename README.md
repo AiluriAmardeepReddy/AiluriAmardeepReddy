@@ -125,4 +125,17 @@ amardeepreddy375@gmail.com
 
 ---
 
+## 💻 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/AiluriAmardeepReddy/">
+    <img src="https://img.shields.io/badge/LeetCode-AiluriAmardeepReddy-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/ailuriamardeep">
+    <img src="https://img.shields.io/badge/CodeChef-ailuriamardeep-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+
 ⭐ "Without data, you're just another person with an opinion."
